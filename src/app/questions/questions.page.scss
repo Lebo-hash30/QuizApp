@@ -1,0 +1,29 @@
+#container {
+  text-align: center;
+  margin-top: 0%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: cadetblue;
+  background-color: brown;
+}
+
+
+ion-title{
+    text-align: center;
+    background-color: paleturquoise;
+    color: darkred;
+    font-weight: bolder;
+}
+
+#submit {
+ padding-top: 10%;
+ padding-left: 30%;
+}
+
+#image{
+    width: 30%;
+    height: 25%;
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+
